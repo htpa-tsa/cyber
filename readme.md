@@ -32,10 +32,10 @@ To view all documentation please visit [this link](https://github.com/jktrn/cybe
 </details>
 
 
-## Contribute
+### Contribute
 To add pages to this wiki, please generate a new [discussion](https://github.com/htpa-tsa/cyber/discussions) requesting collaborator permissions, or fork this repository with the edited pages in `.md` format within a folder titled your GitHub handle. Anything would be massively appreciated! 💙
 
-## Contact
+### Contact
 - htpa.tsa@gmail.com
 - [@jktrn](https://github.com/jktrn)
 
