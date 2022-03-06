@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/834635214672232462/949788195174879232/banner.jpg" />
+  <img src="/cyber-banner.jpg">
 </p>
 
-## Welcome to the wiki for TSA Cybersecurity!
+***
+This repository contains documentation regarding Linux 101 and the **format**, **fundamentals** and **fun** of a CTF competition. <br>
 To view all documentation please visit [this link](https://github.com/jktrn/cyber/wiki), or click the `Wiki` tab. 
 <details closed>
-<summary><h3>Wiki Contents</h2></summary>
+<summary><strong>Wiki Contents</strong></summary>
 
 	
 	
@@ -29,3 +30,13 @@ To view all documentation please visit [this link](https://github.com/jktrn/cybe
 	- [Permission-Based Commands](https://github.com/htpa-tsa/cyber/wiki/III.-Command-Cheatsheet#permission-based-commands)
 		- [Challenge II](https://github.com/htpa-tsa/cyber/wiki/III.-Command-Cheatsheet#challenge-ii)
 </details>
+
+
+## Contribute
+To add pages to this wiki, please generate a new [discussion](https://github.com/htpa-tsa/cyber/discussions) requesting collaborator permissions, or fork this repository with the edited pages in `.md` format within a folder titled your GitHub handle. Anything would be massively appreciated! 💙
+
+## Contact
+- htpa.tsa@gmail.com
+- [@jktrn](https://github.com/jktrn)
+
+<p align="right"><sub>(Banner credit to <a href="https://mocah.org/585346-apple-black.html">mocah</a>)</sub></p>
