@@ -4,9 +4,11 @@
 
 ## Welcome to the wiki for TSA Cybersecurity!
 To view all documentation please visit [this link](https://github.com/jktrn/cyber/wiki), or click the `Wiki` tab. 
+<details closed>
+<summary><h3>Wiki Contents</h2></summary>
 
-
-## Wiki Contents
+	
+	
  1. **[Home](https://github.com/htpa-tsa/cyber/wiki)**
 	 - [Welcome to Linux Fundamentals!](https://github.com/htpa-tsa/cyber/wiki#welcome-to-linux-fundamentals)
 		 - [Quick Links](https://github.com/htpa-tsa/cyber/wiki#quick-links)
@@ -26,3 +28,4 @@ To view all documentation please visit [this link](https://github.com/jktrn/cybe
 	- [Advanced Terminal Operators](https://github.com/htpa-tsa/cyber/wiki/III.-Command-Cheatsheet#advanced-terminal-operators)
 	- [Permission-Based Commands](https://github.com/htpa-tsa/cyber/wiki/III.-Command-Cheatsheet#permission-based-commands)
 		- [Challenge II](https://github.com/htpa-tsa/cyber/wiki/III.-Command-Cheatsheet#challenge-ii)
+</details>
