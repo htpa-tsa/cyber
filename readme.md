@@ -36,7 +36,7 @@ To view all documentation please visit [this link](https://github.com/jktrn/cybe
 To add pages to this wiki, please generate a new [discussion](https://github.com/htpa-tsa/cyber/discussions) requesting collaborator permissions, or fork this repository with the edited pages in `.md` format within a folder titled your GitHub handle. Anything would be massively appreciated! 💙
 
 ### Contact
-- htpa.tsa@gmail.com
+- htpatsa@gmail.com
 - [@jktrn](https://github.com/jktrn)
 
 <p align="right"><sub>(Banner credit to <a href="https://mocah.org/585346-apple-black.html">mocah</a>)</sub></p>
