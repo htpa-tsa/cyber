@@ -1,7 +1,6 @@
 # Table of contents
 
-* [🏠 Home](README.md)
-* [👋 Welcome to Linux Fundamentals!](home.md)
+* [👋 Welcome to Linux Fundamentals!](README.md)
 * [🐧 About Linux](about-linux.md)
 * [💾 The Terminal](terminal.md)
 * [👾 The Command Cheatsheet](command.md)

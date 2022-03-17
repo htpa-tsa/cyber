@@ -1,14 +1,19 @@
 ---
-cover: cyber-banner.jpg
-coverY: 0
+cover: .gitbook/assets/linux-commands.jpg
+coverY: 306.57856093979444
 ---
 
-# 🏠 Home
+# 👋 Welcome to Linux Fundamentals!
 
-***
+Linux is objectively the best platform to practice cybersecurity, providing an incomprehensible amount of resources and open-source software readily available to the public. Although it might be initially uncomfortable to interact with the command-line interface and shell, climbing this mountain will take your CTF abilities to new heights. **Thank you for visiting, and I hope you find these resources helpful!**
 
-This repository contains documentation regarding Linux 101 and the **format**, **fundamentals** and **fun** of a CTF competition.\
-To view all documentation please visit [this link](https://github.com/jktrn/cyber/wiki), or click the `Wiki` tab.
+To start, please head to the sidebar navigation and take a look at the pages.
+
+#### Quick Links
+
+* [**VMWare Download**](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) (Windows-only)
+* [**Kali Linux Download**](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/) (Images for Kali Linux)
+* [**PicoCTF**](https://picoctf.org) (Practice + Webshell)
 
 <details>
 
@@ -45,4 +50,10 @@ To add pages to this wiki, please generate a new [discussion](https://github.com
 * htpatsa@gmail.com
 * [@jktrn](https://github.com/jktrn)
 
-(Banner credit to [mocah](https://mocah.org/585346-apple-black.html))
+#### Sources
+
+* [**Ubuntu**: Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
+* [**funtoo**: Linux Fundamentals](https://www.funtoo.org/Linux\_Fundamentals,\_Part\_1)
+* [**RedHat**: "What is my Linux command prompt telling me?](https://www.redhat.com/sysadmin/command-prompt-tell-me)
+* [**Brian Holt**: Complete Intro to Linux and the CLI](https://btholt.github.io/complete-intro-to-linux-and-the-cli/)
+* [**Banner**: mocah](https://mocah.org/585346-apple-black.html)
