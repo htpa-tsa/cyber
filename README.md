@@ -1,7 +1,6 @@
----
-cover: .gitbook/assets/linux-commands.jpg
-coverY: 306.57856093979444
----
+<p align="center">
+  <img src=".gitbook/assets/linux-commands.jpg">
+</p>
 
 # 👋 Welcome to Linux Fundamentals!
 
