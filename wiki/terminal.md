@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # 💾 The Terminal
 
 ## Opening the Terminal and Prompt

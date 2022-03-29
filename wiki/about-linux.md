@@ -1,7 +1,7 @@
----
-cover: .gitbook/assets/about-linux-banner.jpg
-coverY: 0
----
+<p align="center">
+  <img src=".gitbook/assets/about-linux-banner.jpg">
+</p>
+
 
 # 🐧 About Linux
 
