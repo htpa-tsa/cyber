@@ -1,3 +1,12 @@
+# 👋 We've moved!
+
+Visit our new website, https://htpatsa.com/, for our updated cybersecurity tutorials. Thank you!
+
+---
+
+<details closed>
+  <summary>Old README</summary>
+
 <p align="center">
   <img src=".gitbook/assets/linux-commands.jpg">
 </p>
@@ -56,3 +65,5 @@ To add pages to this wiki, please generate a new [discussion](https://github.com
 * [**RedHat**: "What is my Linux command prompt telling me?](https://www.redhat.com/sysadmin/command-prompt-tell-me)
 * [**Brian Holt**: Complete Intro to Linux and the CLI](https://btholt.github.io/complete-intro-to-linux-and-the-cli/)
 * [**Banner**: mocah](https://mocah.org/585346-apple-black.html)
+
+</details>
